@@ -1,0 +1,24 @@
+.header{
+    background-color: rgb(18, 66, 114);
+    color: #fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 40px 0 40px;
+}
+
+.menu ul{
+    display: flex;
+}
+
+.menu ul li {
+    margin: 20px;
+}
+
+.menu ul li a:hover{
+    color: #121212;
+    background-color: #c8dae2;
+    padding: 5px;
+}
